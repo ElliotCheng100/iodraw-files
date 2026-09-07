@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="425" dy="218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,7 +534,7 @@
         <mxCell id="V5kR8Wc8UMdVxGlK-bk8-84" value="&lt;i&gt;x&lt;/i&gt; = [Δ&lt;i&gt;δ&lt;/i&gt;&amp;nbsp; Δ&lt;i&gt;ω&lt;/i&gt;&amp;nbsp; Δ&lt;i&gt;z&lt;/i&gt;]&lt;sup&gt;T&lt;/sup&gt;&lt;br&gt;&lt;i&gt;A&lt;/i&gt;, &lt;i&gt;B&lt;/i&gt;&lt;sub&gt;w&lt;/sub&gt;: physical layer&lt;br&gt;state matrices" style="fontFamily=Times New Roman;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2900" y="1412" width="182" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V5kR8Wc8UMdVxGlK-bk8-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="V5kR8Wc8UMdVxGlK-bk8-65">
+        <mxCell id="V5kR8Wc8UMdVxGlK-bk8-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V5kR8Wc8UMdVxGlK-bk8-66" target="V5kR8Wc8UMdVxGlK-bk8-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2080" y="1290" as="sourcePoint" />
             <mxPoint x="2130" y="1240" as="targetPoint" />
