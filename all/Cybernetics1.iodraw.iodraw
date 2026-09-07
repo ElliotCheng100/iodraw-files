@@ -467,14 +467,6 @@
         <mxCell id="V5kR8Wc8UMdVxGlK-bk8-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="V5kR8Wc8UMdVxGlK-bk8-67" target="V5kR8Wc8UMdVxGlK-bk8-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V5kR8Wc8UMdVxGlK-bk8-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="V5kR8Wc8UMdVxGlK-bk8-66" target="V5kR8Wc8UMdVxGlK-bk8-65">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2088" y="1270" />
-              <mxPoint x="2088" y="1266" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V5kR8Wc8UMdVxGlK-bk8-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=none;" edge="1" parent="1" source="V5kR8Wc8UMdVxGlK-bk8-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -541,6 +533,12 @@
         </mxCell>
         <mxCell id="V5kR8Wc8UMdVxGlK-bk8-84" value="&lt;i&gt;x&lt;/i&gt; = [Δ&lt;i&gt;δ&lt;/i&gt;&amp;nbsp; Δ&lt;i&gt;ω&lt;/i&gt;&amp;nbsp; Δ&lt;i&gt;z&lt;/i&gt;]&lt;sup&gt;T&lt;/sup&gt;&lt;br&gt;&lt;i&gt;A&lt;/i&gt;, &lt;i&gt;B&lt;/i&gt;&lt;sub&gt;w&lt;/sub&gt;: physical layer&lt;br&gt;state matrices" style="fontFamily=Times New Roman;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;verticalAlign=middle;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2900" y="1412" width="182" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kR8Wc8UMdVxGlK-bk8-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="1290" as="sourcePoint" />
+            <mxPoint x="2130" y="1240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
