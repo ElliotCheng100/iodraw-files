@@ -187,7 +187,7 @@
           <mxGeometry x="1710" y="590" width="1170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="V5kR8Wc8UMdVxGlK-bk8-9" value="" style="fontFamily=Times New Roman;rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#ff0000;strokeWidth=2;dashed=1;dashPattern=8 5;" vertex="1" parent="1">
-          <mxGeometry x="1540" y="673" width="850" height="440" as="geometry" />
+          <mxGeometry x="1530" y="673" width="860" height="440" as="geometry" />
         </mxCell>
         <mxCell id="V5kR8Wc8UMdVxGlK-bk8-10" value="&lt;b&gt;EOMs of Physical Layer&lt;/b&gt;" style="fontFamily=Times New Roman;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=20;align=center;verticalAlign=middle;fontSize=25;fontColor=#cc0000;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1795" y="677" width="420" height="38" as="geometry" />
