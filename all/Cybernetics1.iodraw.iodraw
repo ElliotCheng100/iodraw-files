@@ -339,13 +339,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V5kR8Wc8UMdVxGlK-bk8-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="V5kR8Wc8UMdVxGlK-bk8-25" target="V5kR8Wc8UMdVxGlK-bk8-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1883" y="1011" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V5kR8Wc8UMdVxGlK-bk8-48" value="&lt;b&gt;&lt;i&gt;C&lt;/i&gt;&lt;sub&gt;w1&lt;/sub&gt;&lt;/b&gt;" style="fontFamily=Times New Roman;rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=20;align=center;verticalAlign=middle;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="2485" y="779" width="88" height="52" as="geometry" />
         </mxCell>
