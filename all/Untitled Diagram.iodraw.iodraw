@@ -171,8 +171,8 @@
         <mxCell id="dRRdyGRGRDkv-SF8lYZN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="-640" width="160" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="AqwkUVNN5cLsKdxsMzwj-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-610" width="60" height="30" as="geometry" />
+        <mxCell id="AqwkUVNN5cLsKdxsMzwj-1" value="Cyberattack Modeling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
